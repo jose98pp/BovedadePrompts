@@ -1,5 +1,8 @@
 {
-  "name": "Bóveda de Prompts",
-  "description": "Una aplicación avanzada para gestionar, organizar y mejorar tus prompts de IA utilizando Gemini.",
-  "requestFramePermissions": []
+  "name": "Bóveda de Prompts Pro",
+  "description": "Repositorio inteligente de prompts con análisis de calidad Gemini y control de versiones.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
